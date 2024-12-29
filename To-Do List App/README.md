@@ -1,5 +1,5 @@
-###To-Do List
-<h1>Description</h1>
+<h1>To-Do List</h1>
+<h2>Objective</h2>
 The To-Do List application is a simple and interactive tool to help users manage their daily tasks efficiently. It allows users to add, delete, and mark tasks as completed, providing a streamlined way to stay organized.
 
 <h2>Features</h2>
