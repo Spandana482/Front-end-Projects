@@ -71,6 +71,13 @@ As an example, to get definition of English word hello using v2, you can send re
     ]
   }
 ]
+```
+
+
+
+
+
+
 <h2>How it works:</h2>
 <h3>User Input:</h3> The user enters a word in the search bar.
 <h3>API Call:</h3> The app sends a request to the Dictionary API using the getWordInfo function.
