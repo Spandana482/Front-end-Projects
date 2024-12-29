@@ -17,12 +17,6 @@ This is a simple Weather App built using **HTML**, **CSS**, and **JavaScript**. 
 
 ---
 
-## Demo
-
-![Weather App Screenshot](images/weather-app-screenshot.png)
-
----
-
 ## How to Use
 
 1. Clone the repository:
