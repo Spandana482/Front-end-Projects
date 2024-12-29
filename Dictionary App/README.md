@@ -1,4 +1,4 @@
-#Dictionary App
+<h1>Dictionary App</h1>
 A simple web-based dictionary application that allows users to search for word meanings, examples, synonyms, antonyms, and more. The application fetches data from the Dictionary API and displays it to the user in an interactive and responsive interface.
 <h2>Usage</h2>
 <h3>-->Search for a word by typing it into the search bar and clicking the Search button.</h3>
