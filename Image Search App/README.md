@@ -10,7 +10,7 @@ An elegant and user-friendly web application to search and display images using 
 
 ## Technologies Used 🛠️
 - **HTML**: For the structure of the application.
-- **CSS**: For styling and layout.
+- **CSS & Bootstrap**: For styling and layout.
 - **JavaScript**: For logic and API integration.
 - **Unsplash API**: To fetch high-quality images.
 <h2>Usage</h2>
