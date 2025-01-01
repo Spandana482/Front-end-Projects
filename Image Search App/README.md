@@ -20,11 +20,11 @@ An elegant and user-friendly web application to search and display images using 
   ->Click the Load More button to fetch additional images for the same query.<br>
 
 <h2>Project Structure </h2>
-image-search-app/
-├── index.html         # Main HTML file
-├── style.css          # CSS for styling
-├── script.js          # JavaScript for functionality
-├── README.md          # Project documentation
+image-search-app/<br>
+├── index.html         # Main HTML file<br>
+├── style.css          # CSS for styling<br>
+├── script.js          # JavaScript for functionality<br>
+├── README.md          # Project documentation<br>
 
 <h2>License</h2>
 This project is licensed under the MIT License.
