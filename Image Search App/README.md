@@ -1,6 +1,6 @@
 # Image Search App 🌟
 
-An elegant and user-friendly web application to search and display images using the Unsplash API. This project is built with HTML, CSS, and JavaScript.
+An elegant and user-friendly web application to search and display images using the Unsplash API. This project is built with HTML, CSS, Bootstrap and JavaScript.
 
 ## Features ✨
 - **Search Images**: Enter keywords to fetch stunning images from Unsplash.
